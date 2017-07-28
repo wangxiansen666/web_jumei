@@ -1,2 +1,2 @@
 # web_jumei
-Open the index.html inside
+Open the https://wangxiasen666.github.io/web_jumei/JuMei/index.html
